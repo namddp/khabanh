@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/khabanh/static/css/main.fafc7d7f.css",
+    "main.js": "/khabanh/static/js/main.8d4c8413.js",
+    "static/js/787.ec704a7a.chunk.js": "/khabanh/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/khabanh/index.html",
+    "main.fafc7d7f.css.map": "/khabanh/static/css/main.fafc7d7f.css.map",
+    "main.8d4c8413.js.map": "/khabanh/static/js/main.8d4c8413.js.map",
+    "787.ec704a7a.chunk.js.map": "/khabanh/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fafc7d7f.css",
+    "static/js/main.8d4c8413.js"
+  ]
+}
